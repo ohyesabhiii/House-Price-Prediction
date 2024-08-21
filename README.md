@@ -1,4 +1,4 @@
-# House Price Prediction Model**
+# House Price Prediction Model
 # Overview
 This repository contains a project aimed at predicting house prices using machine learning techniques. The project covers the entire data science pipeline, including data preprocessing, exploratory data analysis, model building, and evaluation.
 
